@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract photon {
+contract jeevan {
     // Public variables to store token information
     string public Name;
     string public Abbrv;
